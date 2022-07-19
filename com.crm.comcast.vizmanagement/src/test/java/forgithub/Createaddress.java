@@ -12,6 +12,7 @@ public class Createaddress {
 		public void Createlocaladdress() 
 		{
 			System.out.println("adityapur");
+			System.out.println("new address sakchi");
 		}
 		
 	}
