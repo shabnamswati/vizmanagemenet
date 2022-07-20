@@ -7,6 +7,8 @@ public class Createaddress {
 	public void address()
 	{
 		System.out.println("sakchi");
+		String browser=System.getProperty("browser");
+		String url=System.getProperty("url");
 	}
 		@Test
 		public void Createlocaladdress() 
